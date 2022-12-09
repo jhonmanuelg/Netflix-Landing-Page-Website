@@ -302,6 +302,10 @@ header .logo img {
 }
 
 @media (max-width: 415px) {
+    .navigation li a {
+        letter-spacing: 0px;
+        font-size: 13px;
+    }
     .banner .bg-mula {
         left: 0px;
         width: 100%;
